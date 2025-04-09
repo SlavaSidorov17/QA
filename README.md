@@ -14,6 +14,8 @@
 ## WebSocket
  - [WebSockets vs HTTP](https://webformyself.com/websockets-vs-http/) [статья📋]
  - [Web сокеты](https://www.youtube.com/watch?v=TxVriqBkqbM&t=2s) [youtube📺]
+ - [Тестирование WebSocket API при помощи Postman](https://ermita.one/testirovanie-websocket-api-pri-pomoshhi-postman/?utm_source=tg&utm_medium=tester&utm_campaign=240125) [статья📋]
+ - [WebSockets: что это, как работает](https://media.mts.ru/business/206250-chto-takoe-websockets/) [статья📋]
 
 ## Хранение данных на стороне клиента
  - [Cookie, local storage, session storage](https://www.youtube.com/watch?v=6OGVhOanIHs&t) [youtube📺]
@@ -31,7 +33,6 @@
  - [Исследовательское тестирование и исследовательские туры Виттакера](https://www.software-testing.by/blog/exploratory-testing-exploratory-tours/) [статья📋]
 
 ## Мобильное тестирование
-
  - [Чек-лист тестирования мобильных приложений](https://habr.com/ru/post/534190/) [статья📋]
  - [Распространенные баги на iOS](https://telegra.ph/bagi-na-iOS-02-05) [статья📋]  
  - [Распространенные баги на Android](https://telegra.ph/bagi-na-android-10-07) [статья📋]  
@@ -48,10 +49,15 @@
 
 ## Тестирование API 
  - [Лучшие практики тестирования API](https://habr.com/ru/amp/post/670730/) [статья📋]  
- - [Чек-лист API тестов](https://gist.github.com/zeburek/8c165c9e8676945d75d91fe2f2addf8d) [статья📋] 
+ - [Чек-лист API тестов](https://gist.github.com/zeburek/8c165c9e8676945d75d91fe2f2addf8d) [статья📋]
+ - [Полное руководство по тестированию API с помощью Postman](https://qarocks.ru/postman-manual/) [статья📋]
 
 ## Тестирование Web
  - [UI elements](https://telegra.ph/UI-elements-07-05) [статья📋] 
+
+## Тестирование безопасности
+ - [XSS-уязвимость](https://habr.com/ru/amp/publications/511318/) [статья📋]
+ - [SQL-инъекции](https://habr.com/ru/articles/725134/) [статья📋]
 
 ## Инструменты
   1. Devtools
